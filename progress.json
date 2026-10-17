@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T02:14:28.017Z",
+  "generated_at": "2026-10-17T02:15:52.328Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -150,6 +150,19 @@
       "path": "problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication",
       "first_solved_at": "2026-10-17T02:14:27.474Z",
       "last_pushed_at": "2026-10-17T02:14:27.474Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:884": {
+      "kind": "problem",
+      "id": "884",
+      "title": "Compute a Gradient with PyTorch Autograd",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/884",
+      "path": "problems/0884-compute-a-gradient-with-pytorch-autograd",
+      "first_solved_at": "2026-10-17T02:15:51.695Z",
+      "last_pushed_at": "2026-10-17T02:15:51.695Z",
       "language": "python",
       "lines": 7
     }

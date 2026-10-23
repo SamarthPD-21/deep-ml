@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**17** solved · 15 problems · 0 labs · 2 math
+**18** solved · 16 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-10-17 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-10-18 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement ReLU and Leaky ReLU](https://www.deep-ml.com/problems/1226) | easy | 2026-10-17 | [solution](problems/1226-implement-relu-and-leaky-relu) |
+| [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-10-23 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-15 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-10-17 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-10-15 | [solution](problems/0003-reshape-matrix) |
